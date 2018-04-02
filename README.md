@@ -18,10 +18,10 @@ User-Perceived Latency in Mobile Applications.”** Accepted for the 40th Intern
 [Paper Link](https://softarch.usc.edu/~yixue/mypapers/ICSE2018_PALOMA.pdf)
 
 ### Repositories
-[PALOMA Analysis](https://github.com/felicitia/PALOMA-Analysis)
-[PALOMA Proxy](https://github.com/felicitia/XposedProxy)
-[MBM Server](https://github.com/felicitia/PALOMA-MBM-Server)
-[MBM Test Cases](https://github.com/felicitia/PALOMA-MBM)
+* [PALOMA Analysis](https://github.com/felicitia/PALOMA-Analysis) 
+* [PALOMA Proxy](https://github.com/felicitia/XposedProxy)
+* [MBM Server](https://github.com/felicitia/PALOMA-MBM-Server)
+* [MBM Test Cases](https://github.com/felicitia/PALOMA-MBM)
 
 ### Contact
-Yixue Zhao [[website]](https://softarch.usc.edu/~yixue/) [[email]](yixuezha@usc.edu)
+Yixue Zhao [[website]](https://softarch.usc.edu/~yixue/) [email: yixue.zhao [AT] usc.edu]
