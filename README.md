@@ -1,4 +1,3 @@
-## PALOMA -- Program Analysis for Latency Optimization in Mobile Applications
 ### Summary
 Reducing network latency in mobile applications is an effective
 way of improving the mobile user experience and has tangible
