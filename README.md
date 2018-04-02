@@ -1,37 +1,30 @@
-## PALOMA Project Website
+## PALOMA (Program Analysis for Latency Optimization in Mobile Applications)
+### Summary
+Reducing network latency in mobile applications is an effective
+way of improving the mobile user experience and has tangible
+economic benefits. This paper presents PALOMA, a novel clientcentric
+technique for reducing the network latency by prefetching
+HTTP requests in Android apps. Our work leverages string analysis
+and callback control-flow analysis to automatically instrument
+apps using PALOMA’s rigorous formulation of scenarios that address
+“what” and “when” to prefetch. PALOMA has been shown
+to incur significant runtime savings (several hundred milliseconds
+per prefetchable HTTP request), both when applied on a reusable
+evaluation benchmark we have developed and on real applications.
 
-You can use the [editor on GitHub](https://github.com/felicitia/PALOMA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Publications
+Yixue Zhao, Marcelo Schmitt Laser, Yingjun Lyu, and Nenad Medvidovic. **“Leveraging Program Analysis to Reduce
+User-Perceived Latency in Mobile Applications.”** Accepted for the 40th International Conference on Software Engineering **(ICSE 2018)**.
+[Paper Link] (https://softarch.usc.edu/~yixue/mypapers/ICSE2018_PALOMA.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Repositories
+[PALOMA Analysis] (https://github.com/felicitia/PALOMA-Analysis)
 
-### Markdown
+[PALOMA Proxy] (https://github.com/felicitia/XposedProxy)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[MBM Server] (https://github.com/felicitia/PALOMA-MBM-Server)
 
-```markdown
-Syntax highlighted code block
+[MBM Test Cases] (https://github.com/felicitia/PALOMA-MBM)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felicitia/PALOMA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Yixue Zhao (yixue.zhao [AT] usc.edu)
