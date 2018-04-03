@@ -1,7 +1,7 @@
 ### Summary
 Reducing network latency in mobile applications is an effective
 way of improving the mobile user experience and has tangible
-economic benefits. This paper presents PALOMA, a novel clientcentric
+economic benefits. This paper presents PALOMA, a novel client-centric
 technique for reducing the network latency by prefetching
 HTTP requests in Android apps. Our work leverages string analysis
 and callback control-flow analysis to automatically instrument
