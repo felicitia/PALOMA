@@ -14,7 +14,7 @@ evaluation benchmark we have developed and on real applications.
 ### Publications
 Yixue Zhao, Marcelo Schmitt Laser, Yingjun Lyu, and Nenad Medvidovic. **“Leveraging Program Analysis to Reduce
 User-Perceived Latency in Mobile Applications.”** Accepted for the 40th International Conference on Software Engineering **(ICSE 2018)**.
-[[Paper Link]](https://softarch.usc.edu/~yixue/mypapers/ICSE2018_PALOMA.pdf)[[Poster]](https://softarch.usc.edu/~yixue/file/ICSE2018Poster.pdf)[[Presentation]](https://youtu.be/8KUPsG4bByU)[[Slides]](https://speakerdeck.com/yixue_zhao/leveraging-program-analysis-to-reduce-user-perceived-latency-in-mobile-applications)
+[[Paper Link]](https://dl.acm.org/doi/10.1145/3180155.3180249)[[Poster]](https://softarch.usc.edu/~yixue/files/PALOMA_Poster.pdf)[[Presentation]](https://youtu.be/8KUPsG4bByU)[[Slides]](https://speakerdeck.com/yixue_zhao/leveraging-program-analysis-to-reduce-user-perceived-latency-in-mobile-applications)
 
 ### Repositories
 * [PALOMA Analysis](https://github.com/felicitia/PALOMA-Analysis) 
